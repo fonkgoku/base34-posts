@@ -25,5 +25,8 @@ before_script:
   - npm install -g hexo-cli
 
 script:
-  - hexo init temp-blog
-  - sudo ./deploy.sh
+  - hexo init tmp-blog
+  - bash .travis/pull_data.sh
+
+after_success:
+ - bash .travis/deploy.sh
