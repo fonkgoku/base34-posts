@@ -26,4 +26,4 @@ before_script:
 
 script:
   - hexo init temp-blog
-  - sudo deploy.sh
+  - sudo ./deploy.sh
