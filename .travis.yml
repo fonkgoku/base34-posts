@@ -16,9 +16,6 @@ env:
   global:
     # See https://git.io/vdao3 for details.
     - JOBS=1
-    - "FTP_USER=[ftp-user]"
-    - "FTP_PASSWORD=[ftp-password]"
-    - "FTP_URL=[ftp-url]"
 
 branches:
   only:
