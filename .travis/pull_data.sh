@@ -19,4 +19,4 @@ npm i
 
 echo "> build static"
 npm run build
-
+cd ..
