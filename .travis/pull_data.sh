@@ -8,7 +8,7 @@ cp -R .travis/source/. tmp-blog/source
 cp -a posts/. tmp-blog/source/_posts
 
 echo "> pull custom theme"
-git clone git@github.com:fonkgoku/hexo-theme-apollo.git tmp-blog/themes/apollo
+git clone https://github.com/fonkgoku/hexo-theme-apollo.git tmp-blog/themes/apollo
 sudo cp -fr .travis/apollo/_config.yml tmp-blog/themes/apollo
 
 echo "> cd into hexo blog directory"
