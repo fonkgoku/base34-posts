@@ -8,7 +8,7 @@
     "scripts": {
       "build": "hexo generate",
       "deploy": "hexo deploy",
-      "generate-deploy": "hexo generate --deploy"
+      "deploy:test-run": "hexo init tmp-blog && ./.travis/pull_data.sh && ./.travis/deploy.sh"
     },
     "dependencies": {
       "hexo": "^5.0.0",
