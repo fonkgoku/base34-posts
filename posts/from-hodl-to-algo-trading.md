@@ -9,11 +9,11 @@ Over the past few years I started dabbling in crypto currencies and transitioned
 
 <!-- more -->
 
-Like most people in Europe, I never really got in touch with financial instruments for most of my life. On average, I feel like in North America, it's more commonplace to use stocks and bonds as a store of value, not here. People tend to rely on Government for their financial needs and security and naively accept the notion that it will always be there to provide. You never learn about it in school, and if nobody in your close proximity tends to be active in the markets and explains it to you, the tools of the financial world keep their enigmatic character.
+Like most people in Europe, I never really got in touch with financial instruments for most of my life. On average, I feel like in North America, it's more commonplace to use stocks and bonds as a store of value, but not here where I grew up. People tend to rely on Government for their financial needs and security and naively accept the notion that it will always be there to provide. You never learn about markets and finance in school, and if nobody in your close proximity tends to be active in the field and explains it to you, the tools of the financial world keep their enigmatic character.
 
-2014 was the year I first heard about Ethereum. I've seen people using Bitcoin before and understood that it was some sort of anonymous payment method, Ethereum was different apparently. This acquaintance of mine was raving about how it was going to change the way we build web apps and that you can make lots of money with this potentially.
+2014 was the year I first heard about Ethereum. I've seen people using Bitcoin before and understood that it was some sort of anonymous payment method, Ethereum was different apparently. This acquaintance of mine was raving about how it was going to change the way we build web apps and that you could make lots of money with this eventually.
 
-I didn't think much of it, it was only in 2016 when the price of Ether started to rise, that I looked closer into it. I read some blog posts and watched a few videos of Vitalik Buterin explaining his invention. I was intrigued and decided to buy some. Not to build web apps anyway, just as a form of investment. Luckily, Coinbase was already around and the process was quite easy. I put some of my savings into it (no more than I could afford to lose) when the price was at around 11 USD. Like most first timers dabbling in markets, I was constantly checking the price until I decided to just walk away and consider it done.
+I didn't think much of it, it was only in 2016 when the price of Ether started to rise, that I looked closer into it. I read some blog posts and watched a few videos of Vitalik Buterin explaining his invention. I was intrigued and decided to buy some. Not to build web apps anyway, just as a form of passive investment. Luckily, Coinbase was already around and the process was quite easy. I put some of my savings into it (no more than I could afford to lose) when the price was at around 11 USD. Like most first timers dabbling in markets, I was constantly checking the price until I decided to just walk away and consider it done.
 
 In spring of 2017 the price of Ethereum, as well as most crypto currencies started to appreciate, suddenly my investment increased 7-fold. I was captivated. I realized the power of market knowledge as a tool to generate wealth.
 
@@ -29,7 +29,7 @@ Half-way through the degree, I learned about mean reversion (prices tend to reve
 
 I started in December of 2018 building a trading bot in NodeJS, using the Bitfinex API (which still is one of the easiest to use and well documented) including a backtesting engine to test the viability of my strategies. After around 8 weeks it was live and trading with real money.
 
-I came up with several strategies, but a simple EMA crossover seemed to yield the best results. It was working like a charm for around 3 months, every month I doubled the trading account, then in the 4th month, the strategy stopped working and I lost all the money I made so far. I was about even, so no harm done, but I realized that I had been much too overconfident in my executionm so more learning and testing was needed. It was the summer of 2019 by then.
+I came up with several strategies, but a simple EMA crossover seemed to yield the best results. It was working like a charm for around 3 months, every month I doubled the trading account, then in the 4th month, the strategy stopped working and I lost all the money I made so far. I was about even, so no harm done, but I realized that I had been too overconfident in my execution, so more learning and testing was needed. It was the summer of 2019 by then.
 
 Since I knew so little about actual trading at that time, I started looking into YouTube channels, books and other resources to learn how to do it properly. Like most beginners will know, this is a tough road with a lot of garbage content. Eventually I came up with a decent collection of useful books, articles and videos. 
 
@@ -41,7 +41,7 @@ After a failed attempt to trade a demo account profitably over the period of a m
 
 Also, I realized a big flaw in the ideas around swing trading. A lot of people try to promote swing trading as a more relaxed alternative to day trading and easier to reconcile with a day job - this is not necessarily true. Managing your market entries and exits precisely is crucial for success, that means you would have to watch the market at all times.
 
-In the mean time I tried out a number of algo-trading platforms that work with either a major crypto or forex exchange. I tried QuantConnect (LeanEngine), freqtrade (Open Source Python project for trading crypto), StockSharp (Semi-Open Source) and finally MetaTrader5 (MQL5). The only ones I can recommend are freqtrade and MetaTrader. 
+In the mean time I tried out a number of algo-trading platforms, that work with either a major crypto or forex exchange. I tried QuantConnect (LeanEngine), freqtrade (Open Source Python project for trading crypto), StockSharp (Semi-Open Source) and finally MetaTrader5 (MQL5). The only ones I can recommend are freqtrade and MetaTrader. 
 
 Freqtrade has an excellent documentation, is completely free, open source and very feature rich. You will need to know a good deal of Python, since you might run into some problems with execution and deployment, but for me this is by far the best solution for algo-trading crypto currencies.
 
