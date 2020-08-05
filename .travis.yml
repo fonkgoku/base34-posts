@@ -27,4 +27,7 @@ before_script:
 script:
   - hexo init tmp-blog
   - bash .travis/pull_data.sh
+
+after_success:
   - bash .travis/deploy.sh
+
