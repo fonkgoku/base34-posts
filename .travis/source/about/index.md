@@ -7,6 +7,6 @@ I have more than 5 years of active experience in building rich front-end experie
 
 This blog is my creative and educational outlet, to share my ideas.
 
-Feel free to check out my Github profile [Github](https://github.com/fonkgoku "@fonkgoku").
+Feel free to check out my Github profile [Github](https://github.com/paulcpk "@paulcpk").
 
 I'm available for development and consulting, get in touch at [paul@base34.com](mailto:paul@base34.com).

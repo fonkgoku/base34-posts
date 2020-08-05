@@ -7,15 +7,12 @@
     },
     "scripts": {
       "build": "hexo generate",
-      "deploy": "hexo deploy",
-      "deploy:test-run": "hexo init tmp-blog && ./.travis/pull_data.sh && ./.travis/deploy.sh"
+      "deploy": "hexo deploy"
     },
     "dependencies": {
       "hexo": "^5.0.0",
       "hexo-admin": "^2.3.0",
       "hexo-browsersync": "^0.3.0",
-      "hexo-deployer-ftpsync": "^0.1.1",
-      "hexo-deployer-sftp": "^0.4.1",
       "hexo-generator-archive": "^1.0.0",
       "hexo-generator-category": "^1.0.0",
       "hexo-generator-feed": "^2.2.0",
