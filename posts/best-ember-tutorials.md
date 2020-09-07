@@ -1,7 +1,7 @@
 ---
 title: Best Ember Tutorials
 date: 2019-04-06 14:49:49
-tags:
+tags: ember
 ---
 
 A short summary of all the best article series and tutorial sites to get started with Ember or if you want to expand your knowledge.
