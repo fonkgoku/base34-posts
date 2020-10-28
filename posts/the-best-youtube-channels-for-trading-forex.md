@@ -1,7 +1,7 @@
 ---
 title: The Best Youtube Channels For Trading Forex
 author: Paul Csapak
-date: 2020-01-10 10:00
+date: 2020-10-01 10:00
 tags: thoughts, trading
 ---
 
