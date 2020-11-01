@@ -5,7 +5,7 @@ date: 2020-11-01 15:00:25
 tags: mql5, trading
 ---
 
-I recently had enough and wrote my own MACD indicator for MetaTrader5. Here's everything you need to know about it.
+Recently, I had enough and wrote my own MACD indicator for MetaTrader5. Here's everything you need to know about it.
 
 <!-- more -->
 
@@ -15,7 +15,7 @@ TLDR, better MACD: [https://github.com/paulcpk/mql5-MT5-MACD-Classic](https://gi
 
 Like most people working with MT5, I had my ups and downs. Some features of the Software are very intricate but work great, other things should be quite simple but just don't work. 
 
-Recently I tried to automate [a trading strategy I found](https://www.youtube.com/watch?v=nmffSjdZbWQ&t=242s) on the TRADING RUSH channel on YouTube. It centers around MACD (Moving Average Convergence-Divergence), so that was among the indicators I implemented. When testing my code, I realized the indicator was returning values different to the values on TradingView, for the same forex pair and timeframe. 
+A short while ago, I tried to automate [a trading strategy I found](https://www.youtube.com/watch?v=nmffSjdZbWQ&t=242s) on the TRADING RUSH channel on YouTube. It centers around MACD (Moving Average Convergence-Divergence), so that was among the indicators I implemented. When testing my code, I realized the indicator was returning values different to the values on TradingView, for the same forex pair and timeframe. 
 
 That was strange, as the difference was too great as to disregard it as a rounding error. On closer examination I opened the MACD indicator in MT5 for cross examination, to my surprise I got this:
 
