@@ -1,5 +1,5 @@
 ---
-title: The books that influenced me the most
+title: Five books that influenced me the most
 author: Paul Csapak
 date: 2020-11-25 15:00:25
 tags: thoughts
