@@ -5,7 +5,7 @@ date: 2020-11-25 15:00:25
 tags: thoughts
 ---
 
-As an avid reader, I came across a few gems over the last few years that profoundly influenced my thinking and changed the way I look at the world. 
+As an avid reader, I came across a few gems over the years that profoundly influenced my thinking and changed the way I look at the world. 
 
 <!-- more -->
 
