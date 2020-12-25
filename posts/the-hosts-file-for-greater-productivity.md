@@ -26,7 +26,7 @@ Open your hosts file.
 Go to `c:\windows\system32\drivers\etc\hosts` (you can just paste it into your explorer's navigation bar). You will need to open the file in an editor with administrator access to save the changes.
 
 ### For Unix based operating systems (MacOS or Ubuntu), 
-Go to `/etc/hosts/`. In MacOS you can do so by opening the Finder and via "Go" -> "Go to folder..." -> paste `/etc/hosts/` in the input and hit "Go"
+Go to `/etc/hosts/`. In MacOS you can do so by opening the Finder and via "Go" -> "Go to folder..." -> paste `/etc/hosts/` in the input and hit "Go".
 
 ### Paste the following snippet into your hosts file:
 
