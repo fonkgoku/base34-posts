@@ -1,5 +1,5 @@
 ---
-title: The host file for greater productivity
+title: The hosts file for greater productivity
 author: Paul Csapak
 date: 2020-12-25 15:00:25
 tags: bash
