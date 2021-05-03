@@ -1,5 +1,5 @@
 ---
-title: Why I&#39;m Packing All My Things OR How To Move To Dubai
+title: Why I&#39;m Selling All My Things OR How To Move To Dubai
 author: Paul Csapak
 date: 2021-04-05 12:00:25
 tags: thoughts, business development
